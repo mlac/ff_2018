@@ -24,7 +24,28 @@ b = [6,4]
 x0_bounds = (None, None)
 x1_bounds = (-3, None)
 
-res = linprog(c,A_ub=A, b_ub=b, bounds=(x0_bounds,x1_bounds,
-                                        options=("disp":True))
+res = linprog(c,A_ub=A, b_ub=b, bounds=(x0_bounds,x1_bounds),
+                                        options={"disp":True})
 
 print res
+
+
+'''
+
+maxmize expected points
+
+subject to constraint that budget is less than 200
+
+budget = sum product of player * salary
+expected points = sum product of expected points * players
+
+position constraints
+
+'''
+
+'''
+
+Realized need for integer constraints - installing Pyomo.
+
+
+'''

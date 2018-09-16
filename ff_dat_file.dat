@@ -1,0 +1,32 @@
+param:  P:                          v     C  :=
+  "Brady"                 1.84   4.0
+  "Gronk"                 2.19   7.5
+  "Big Ben"                    1.84   3.5
+  "AB"                1.44   5.0
+  "Greene"             2.29   7.3
+  "Ju Ju"                         .77   2.6
+  "Steelers"              1.29   4.1
+  "Broncos"                   .60   8.0
+  "Hunt"                  .72  12.0 ;
+
+param Cmax := 200.0;
+
+param:  S:       Smin   Smax :=
+        QB      1      1
+        WR     2    3
+        RB    1      3
+        TE      1      2
+        K      1      1
+        DEF     1      1 ;
+
+param e:
+                        QB   WR    RB    TE     K    DEF   :=
+  "Brady"               1     0     0     0     0    0
+  "Gronk"               0     0     0     1     0    0
+  "Big Ben"             1     0     0     0     0    0
+  "AB"                  0     1     0     0     0    0
+  "Greene"              0     1     0     0     0    0
+  "Ju Ju"               0     0     0     0     1    0
+  "Steelers"            0     0     0     0     0    1
+  "Broncos"             0     0     0     0     0    1
+  "Hunt"                0     0     1     0     0    0       ;
