@@ -1,14 +1,14 @@
 {
     "Problem": [
         {
-            "Lower bound": 9.85, 
+            "Lower bound": 12.98, 
             "Name": "unknown", 
-            "Number of constraints": 11, 
-            "Number of nonzeros": 23, 
+            "Number of constraints": 12, 
+            "Number of nonzeros": 31, 
             "Number of objectives": 1, 
             "Number of variables": 10, 
             "Sense": "minimize", 
-            "Upper bound": 9.85
+            "Upper bound": 12.98
         }
     ], 
     "Solution": [
@@ -22,13 +22,16 @@
             "Message": null, 
             "Objective": {
                 "value": {
-                    "Value": 9.850000000000001
+                    "Value": 12.98
                 }
             }, 
             "Problem": {}, 
             "Status": "optimal", 
             "Variable": {
                 "x[AB]": {
+                    "Value": 1.0
+                }, 
+                "x[Big Ben]": {
                     "Value": 1.0
                 }, 
                 "x[Brady]": {
@@ -48,6 +51,9 @@
                 }, 
                 "x[Ju Ju]": {
                     "Value": 1.0
+                }, 
+                "x[Steelers]": {
+                    "Value": 1.0
                 }
             }
         }
@@ -57,13 +63,13 @@
             "Error rc": 0, 
             "Statistics": {
                 "Branch and bound": {
-                    "Number of bounded subproblems": "1", 
-                    "Number of created subproblems": "1"
+                    "Number of bounded subproblems": 0, 
+                    "Number of created subproblems": 0
                 }
             }, 
             "Status": "ok", 
             "Termination condition": "optimal", 
-            "Time": 0.012464046478271484
+            "Time": 0.007311820983886719
         }
     ]
 }
