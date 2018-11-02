@@ -1,0 +1,76 @@
+Id,First Name,Last Name,Position,Team,Opponent,Game,Time,Salary,FPPG,Injury Status,Starting
+nfl.t.19,New York,Giants,DEF,NYG,DAL,NYG@DAL,8:20PM EDT,10,4.0," ",No
+nfl.t.6,Dallas,Cowboys,DEF,DAL,NYG,NYG@DAL,8:20PM EDT,15,6.0," ",No
+nfl.p.6760,Eli,Manning,QB,NYG,DAL,NYG@DAL,8:20PM EDT,26,8.2," ",No
+nfl.p.8790,Jonathan,Stewart,RB,NYG,DAL,NYG@DAL,8:20PM EDT,10,0.8," ",No
+nfl.p.25838,Rhett,Ellison,TE,NYG,DAL,NYG@DAL,8:20PM EDT,10,2.1," ",No
+nfl.p.26547,Alex,Tanney,QB,NYG,DAL,NYG@DAL,8:20PM EDT,20,0.0," ",No
+nfl.p.27055,Russell,Shepard,WR,NYG,DAL,NYG@DAL,8:20PM EDT,10,2.4," ",No
+nfl.p.27540,Odell,Beckham Jr.,WR,NYG,DAL,NYG@DAL,8:20PM EDT,37,16.5," ",No
+nfl.p.27584,Cody,Latimer,WR,NYG,DAL,NYG@DAL,8:20PM EDT,10,0.0," ",No
+nfl.p.28215,Scott,Simonson,TE,NYG,DAL,NYG@DAL,8:20PM EDT,10,0.0," ",No
+nfl.p.29274,Sterling,Shepard,WR,NYG,DAL,NYG@DAL,8:20PM EDT,18,7.3," ",No
+nfl.p.30136,Evan,Engram,TE,NYG,DAL,NYG@DAL,8:20PM EDT,18,2.8," ",No
+nfl.p.30253,Wayne,Gallman Jr.,RB,NYG,DAL,NYG@DAL,8:20PM EDT,10,1.8," ",No
+nfl.p.30739,Shane,Smith,RB,NYG,DAL,NYG@DAL,8:20PM EDT,10,0.0," ",No
+nfl.p.30972,Saquon,Barkley,RB,NYG,DAL,NYG@DAL,8:20PM EDT,30,19.8," ",No
+nfl.p.31078,Kyle,Lauletta,QB,NYG,DAL,NYG@DAL,8:20PM EDT,20,0.0," ",No
+nfl.p.26060,Cole,Beasley,WR,DAL,NYG,NYG@DAL,8:20PM EDT,14,10.8," ",No
+nfl.p.26535,Jamize,Olawale,RB,DAL,NYG,NYG@DAL,8:20PM EDT,10,0.0," ",No
+nfl.p.26631,Tavon,Austin,WR,DAL,NYG,NYG@DAL,8:20PM EDT,10,0.1," ",No
+nfl.p.26697,Terrance,Williams,WR,DAL,NYG,NYG@DAL,8:20PM EDT,13,1.1," ",No
+nfl.p.27874,Allen,Hurns,WR,DAL,NYG,NYG@DAL,8:20PM EDT,12,2.5," ",No
+nfl.p.28634,Geoff,Swaim,TE,DAL,NYG,NYG@DAL,8:20PM EDT,13,3.3," ",No
+nfl.p.28718,Rod,Smith,RB,DAL,NYG,NYG@DAL,8:20PM EDT,10,0.5," ",No
+nfl.p.29238,Ezekiel,Elliott,RB,DAL,NYG,NYG@DAL,8:20PM EDT,37,16.1," ",No
+nfl.p.29369,Dak,Prescott,QB,DAL,NYG,NYG@DAL,8:20PM EDT,28,8.7," ",No
+nfl.p.29451,Rico,Gathers,TE,DAL,NYG,NYG@DAL,8:20PM EDT,10,0.0," ",No
+nfl.p.30784,Blake,Jarwin,TE,DAL,NYG,NYG@DAL,8:20PM EDT,10,0.0," ",No
+nfl.p.30788,Cooper,Rush,QB,DAL,NYG,NYG@DAL,8:20PM EDT,20,0.7," ",No
+nfl.p.31051,Michael,Gallup,WR,DAL,NYG,NYG@DAL,8:20PM EDT,10,1.4," ",No
+nfl.p.31107,Dalton,Schultz,TE,DAL,NYG,NYG@DAL,8:20PM EDT,10,0.0," ",No
+nfl.p.31141,Mike,White,QB,DAL,NYG,NYG@DAL,8:20PM EDT,20,0.0," ",No
+nfl.p.31178,Cedrick,Wilson,WR,DAL,NYG,NYG@DAL,8:20PM EDT,10,0.0,IR,No
+nfl.p.28572,Kaelin,Clay,WR,NYG,DAL,NYG@DAL,8:20PM EDT,10,0.0," ",No
+nfl.p.26456,Deonte,Thompson,WR,DAL,NYG,NYG@DAL,8:20PM EDT,10,4.2," ",No
+nfl.p.30352,Noah,Brown,WR,DAL,NYG,NYG@DAL,8:20PM EDT,10,0.8,IR,No
+nfl.p.25105,Doug,Baldwin,WR,SEA,CHI,SEA@CHI,8:15PM EDT,21,0.0,O,No
+nfl.p.25785,Russell,Wilson,QB,SEA,CHI,SEA@CHI,8:15PM EDT,32,22.4," ",No
+nfl.p.27074,Jaron,Brown,WR,SEA,CHI,SEA@CHI,8:15PM EDT,10,1.2," ",No
+nfl.p.28221,Tyler,Ott,TE,SEA,CHI,SEA@CHI,8:15PM EDT,10,0.0," ",No
+nfl.p.28457,Tyler,Lockett,WR,SEA,CHI,SEA@CHI,8:15PM EDT,17,13.4," ",No
+nfl.p.28514,Mike,Davis,RB,SEA,CHI,SEA@CHI,8:15PM EDT,10,7.4," ",No
+nfl.p.29324,C.J.,Prosise,RB,SEA,CHI,SEA@CHI,8:15PM EDT,10,3.5," ",No
+nfl.p.29328,Nick,Vannett,TE,SEA,CHI,SEA@CHI,8:15PM EDT,10,1.6," ",No
+nfl.p.29650,J.D.,McKissic,RB,SEA,CHI,SEA@CHI,8:15PM EDT,10,6.7,IR,No
+nfl.p.29821,Tre,Madden,RB,SEA,CHI,SEA@CHI,8:15PM EDT,10,1.2," ",No
+nfl.p.30339,David,Moore,WR,SEA,CHI,SEA@CHI,8:15PM EDT,10,0.0," ",No
+nfl.p.30362,Chris,Carson,RB,SEA,CHI,SEA@CHI,8:15PM EDT,16,7.4," ",No
+nfl.p.9678,Chase,Daniel,QB,CHI,SEA,SEA@CHI,8:15PM EDT,20,-0.2," ",No
+nfl.p.25370,Patrick,Scales,TE,CHI,SEA,SEA@CHI,8:15PM EDT,10,0.0," ",No
+nfl.p.26108,Josh,Bellamy,WR,CHI,SEA,SEA@CHI,8:15PM EDT,10,5.1," ",No
+nfl.p.26729,Dion,Sims,TE,CHI,SEA,SEA@CHI,8:15PM EDT,10,1.9," ",No
+nfl.p.27167,Benny,Cunningham,RB,CHI,SEA,SEA@CHI,8:15PM EDT,10,0.0," ",No
+nfl.p.27589,Allen,Robinson II,WR,CHI,SEA,SEA@CHI,8:15PM EDT,19,8.1," ",No
+nfl.p.27789,Trey,Burton,TE,CHI,SEA,SEA@CHI,8:15PM EDT,16,2.0," ",No
+nfl.p.28234,Taylor,Gabriel,WR,CHI,SEA,SEA@CHI,8:15PM EDT,10,5.0," ",No
+nfl.p.28395,Kevin,White,WR,CHI,SEA,SEA@CHI,8:15PM EDT,10,1.6," ",No
+nfl.p.28556,Michael,Burton,RB,CHI,SEA,SEA@CHI,8:15PM EDT,10,1.1," ",No
+nfl.p.29102,Daniel,Brown,TE,CHI,SEA,SEA@CHI,8:15PM EDT,10,2.2," ",No
+nfl.p.29384,Jordan,Howard,RB,CHI,SEA,SEA@CHI,8:15PM EDT,26,13.2," ",No
+nfl.p.29913,Ben,Braunecker,TE,CHI,SEA,SEA@CHI,8:15PM EDT,10,0.0," ",No
+nfl.p.30115,Mitchell,Trubisky,QB,CHI,SEA,SEA@CHI,8:15PM EDT,20,14.0," ",No
+nfl.p.30158,Adam,Shaheen,TE,CHI,SEA,SEA@CHI,8:15PM EDT,10,5.2,IR,No
+nfl.p.30232,Tarik,Cohen,RB,CHI,SEA,SEA@CHI,8:15PM EDT,12,5.6," ",No
+nfl.t.26,Seattle,Seahawks,DEF,SEA,CHI,SEA@CHI,8:15PM EDT,19,7.0," ",No
+nfl.t.3,Chicago,Bears,DEF,CHI,SEA,SEA@CHI,8:15PM EDT,16,14.0," ",No
+nfl.p.27422,Marlon,Brown,WR,CHI,SEA,SEA@CHI,8:15PM EDT,10,0.0,IR,No
+nfl.p.30997,Rashaad,Penny,RB,SEA,CHI,SEA@CHI,8:15PM EDT,11,6.3," ",No
+nfl.p.31021,Anthony,Miller,WR,CHI,SEA,SEA@CHI,8:15PM EDT,10,2.4," ",No
+nfl.p.31090,Will,Dissly,TE,SEA,CHI,SEA@CHI,8:15PM EDT,13,18.0," ",No
+nfl.p.31194,Javon,Wims,WR,CHI,SEA,SEA@CHI,8:15PM EDT,10,0.0," ",No
+nfl.p.31467,Khalid,Hill,RB,SEA,CHI,SEA@CHI,8:15PM EDT,10,0.0,IR,No
+nfl.p.7868,Brandon,Marshall,WR,SEA,CHI,SEA@CHI,8:15PM EDT,12,12.1," ",No
+nfl.p.28535,Brett,Hundley,QB,SEA,CHI,SEA@CHI,8:15PM EDT,20,12.4," ",No
+nfl.p.30523,Darrell,Daniels,TE,SEA,CHI,SEA@CHI,8:15PM EDT,10,0.6," ",No
+nfl.p.29416,Keenan,Reynolds,WR,SEA,CHI,SEA@CHI,8:15PM EDT,10,0.0," ",No

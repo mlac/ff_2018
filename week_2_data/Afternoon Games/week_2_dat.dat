@@ -1,0 +1,102 @@
+param: P:        v       C     := 
+"Matthew Stafford"    16.3937730257    35
+"Golden Tate"    9.58167158923    25
+"Marvin Jones Jr."    8.40539462494    21
+"Kenny Golladay"    7.99072062772    12
+"Jimmy Garoppolo"    16.2064452244    29
+"George Kittle"    7.66699642878    17
+"Detroit Lions"    7.41012629282    18
+"San Francisco 49ers"    6.28027057399    10
+"Alfred Morris"    9.011526602    15
+"Larry Fitzgerald"    8.31210023658    24
+"Sam Bradford"    10.9769012522    20
+"David Johnson"    14.9094939622    38
+"Ricky Seals-Jones"    5.4327356241    11
+"Brandin Cooks"    9.12922322154    17
+"Todd Gurley II"    18.4371895956    38
+"Jared Goff"    16.137498693    30
+"Arizona Cardinals"    6.08105183766    10
+"Los Angeles Rams"    12.6335567399    21
+"Tom Brady"    17.5918658508    35
+"Rob Gronkowski"    11.2581200302    30
+"Rex Burkhead"    9.30771856751    18
+"Blake Bortles"    13.9067436366    25
+"Austin Seferian-Jenkins"    5.35038420233    11
+"T.J. Yeldon"    9.11162361707    18
+"New England Patriots"    5.91463717986    15
+"Jacksonville Jaguars"    6.70212995746    17
+"Marshawn Lynch"    8.90795781893    16
+"Jared Cook"    6.50253911076    16
+"Derek Carr"    11.7012876328    26
+"Demaryius Thomas"    9.60373655452    20
+"Emmanuel Sanders"    10.225402696    21
+"Case Keenum"    16.424379254    27
+"Oakland Raiders"    6.07678621295    13
+"Denver Broncos"    11.2962954142    13
+"Royce Freeman"    9.37307576916    19
+"New York Giants"    6.06239644061    10
+"Dallas Cowboys"    10.5696903042    15
+"Eli Manning"    13.8518641564    26
+"Odell Beckham Jr."    12.7627503039    37
+"Evan Engram"    6.24466155845    18
+"Saquon Barkley"    14.3790520306    30
+"Ezekiel Elliott"    16.9468803045    37
+"Dak Prescott"    14.9076737645    28
+;
+
+param Cmax := 200.0 ;
+
+param:   S:  Smin    Smax    := 
+         QB    1       1     
+         WR    3       4     
+         RB    2       3     
+         TE    1       2     
+         DEF   1       1     
+         WRT   7       7;    
+
+
+param e:     QB  WR  RB  TE     DEF  WRT := 
+"Matthew Stafford"    1    0    0    0    0    0    
+"Golden Tate"    0    1    0    0    0    1    
+"Marvin Jones Jr."    0    1    0    0    0    1    
+"Kenny Golladay"    0    1    0    0    0    1    
+"Jimmy Garoppolo"    1    0    0    0    0    0    
+"George Kittle"    0    0    0    1    0    1    
+"Detroit Lions"    0    0    0    0    1    0    
+"San Francisco 49ers"    0    0    0    0    1    0    
+"Alfred Morris"    0    0    1    0    0    1    
+"Larry Fitzgerald"    0    1    0    0    0    1    
+"Sam Bradford"    1    0    0    0    0    0    
+"David Johnson"    0    0    1    0    0    1    
+"Ricky Seals-Jones"    0    0    0    1    0    1    
+"Brandin Cooks"    0    1    0    0    0    1    
+"Todd Gurley II"    0    0    1    0    0    1    
+"Jared Goff"    1    0    0    0    0    0    
+"Arizona Cardinals"    0    0    0    0    1    0    
+"Los Angeles Rams"    0    0    0    0    1    0    
+"Tom Brady"    1    0    0    0    0    0    
+"Rob Gronkowski"    0    0    0    1    0    1    
+"Rex Burkhead"    0    0    1    0    0    1    
+"Blake Bortles"    1    0    0    0    0    0    
+"Austin Seferian-Jenkins"    0    0    0    1    0    1    
+"T.J. Yeldon"    0    0    1    0    0    1    
+"New England Patriots"    0    0    0    0    1    0    
+"Jacksonville Jaguars"    0    0    0    0    1    0    
+"Marshawn Lynch"    0    0    1    0    0    1    
+"Jared Cook"    0    0    0    1    0    1    
+"Derek Carr"    1    0    0    0    0    0    
+"Demaryius Thomas"    0    1    0    0    0    1    
+"Emmanuel Sanders"    0    1    0    0    0    1    
+"Case Keenum"    1    0    0    0    0    0    
+"Oakland Raiders"    0    0    0    0    1    0    
+"Denver Broncos"    0    0    0    0    1    0    
+"Royce Freeman"    0    0    1    0    0    1    
+"New York Giants"    0    0    0    0    1    0    
+"Dallas Cowboys"    0    0    0    0    1    0    
+"Eli Manning"    1    0    0    0    0    0    
+"Odell Beckham Jr."    0    1    0    0    0    1    
+"Evan Engram"    0    0    0    1    0    1    
+"Saquon Barkley"    0    0    1    0    0    1    
+"Ezekiel Elliott"    0    0    1    0    0    1    
+"Dak Prescott"    1    0    0    0    0    0    
+;

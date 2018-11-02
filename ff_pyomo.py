@@ -32,7 +32,7 @@ model.x = Var(model.P, within=Binary)
 # Minimize the cost of players that are played
 def value_rule(model):
     return sum(model.v[i]*model.x[i] for i in model.P)
-model.value = Objective(rule=value_rule)
+model.value = Objective(rule=value_rule, sense = maximize)
 
 # Limit Positions
 def position_rule(model, j):

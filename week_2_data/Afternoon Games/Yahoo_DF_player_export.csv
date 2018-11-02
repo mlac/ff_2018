@@ -1,0 +1,189 @@
+Id,First Name,Last Name,Position,Team,Opponent,Game,Time,Salary,FPPG,Injury Status,Starting
+nfl.p.7406,Matt,Cassel,QB,DET,SF,DET@SF,4:05PM EDT,20,-0.5," ",No
+nfl.p.9265,Matthew,Stafford,QB,DET,SF,DET@SF,4:05PM EDT,35,12.0," ",No
+nfl.p.24035,Golden,Tate,WR,DET,SF,DET@SF,4:05PM EDT,25,17.4," ",No
+nfl.p.24318,LeGarrette,Blount,RB,DET,SF,DET@SF,4:05PM EDT,11,-0.3," ",No
+nfl.p.25876,Marvin,Jones Jr.,WR,DET,SF,DET@SF,4:05PM EDT,21,7.4," ",No
+nfl.p.26756,Levine,Toilolo,TE,DET,SF,DET@SF,4:05PM EDT,10,1.2," ",No
+nfl.p.26781,Luke,Willson,TE,DET,SF,DET@SF,4:05PM EDT,10,0.0," ",No
+nfl.p.26822,Theo,Riddick,RB,DET,SF,DET@SF,4:05PM EDT,15,6.0," ",No
+nfl.p.27717,TJ,Jones,WR,DET,SF,DET@SF,4:05PM EDT,10,1.1," ",No
+nfl.p.28442,Ameer,Abdullah,RB,DET,SF,DET@SF,4:05PM EDT,10,8.0,O,No
+nfl.p.29001,Bradley,Marquez,WR,DET,SF,DET@SF,4:05PM EDT,10,0.0," ",No
+nfl.p.29587,Hakeem,Valles,TE,DET,SF,DET@SF,4:05PM EDT,10,1.0,O,No
+nfl.p.30209,Kenny,Golladay,WR,DET,SF,DET@SF,4:05PM EDT,12,14.9," ",No
+nfl.p.30240,Michael,Roberts,TE,DET,SF,DET@SF,4:05PM EDT,10,1.1," ",No
+nfl.p.8982,Pierre,Garcon,WR,SF,DET,DET@SF,4:05PM EDT,16,3.1," ",No
+nfl.p.25291,Kyle,Nelson,TE,SF,DET,DET@SF,4:05PM EDT,10,0.0," ",No
+nfl.p.26253,Garrett,Celek,TE,SF,DET,DET@SF,4:05PM EDT,10,0.0," ",No
+nfl.p.26701,Marquise,Goodwin,WR,SF,DET,DET@SF,4:05PM EDT,20,0.0,O,No
+nfl.p.26753,Kyle,Juszczyk,RB,SF,DET,DET@SF,4:05PM EDT,10,6.1," ",No
+nfl.p.27590,Jimmy,Garoppolo,QB,SF,DET,DET@SF,4:05PM EDT,29,12.0," ",No
+nfl.p.28654,Raheem,Mostert,RB,SF,DET,DET@SF,4:05PM EDT,10,0.0," ",No
+nfl.p.29783,Cole,Wick,TE,SF,DET,DET@SF,4:05PM EDT,10,0.0," ",No
+nfl.p.30217,C.J.,Beathard,QB,SF,DET,DET@SF,4:05PM EDT,20,15.8," ",No
+nfl.p.30259,George,Kittle,TE,SF,DET,DET@SF,4:05PM EDT,17,11.5," ",No
+nfl.p.30290,Trent,Taylor,WR,SF,DET,DET@SF,4:05PM EDT,10,4.8," ",No
+nfl.p.30551,Kendrick,Bourne,WR,SF,DET,DET@SF,4:05PM EDT,10,0.0," ",No
+nfl.p.30552,Matt,Breida,RB,SF,DET,DET@SF,4:05PM EDT,18,5.6," ",No
+nfl.t.8,Detroit,Lions,DEF,DET,SF,DET@SF,4:05PM EDT,18,8.0," ",No
+nfl.t.25,San Francisco,49ers,DEF,SF,DET,DET@SF,4:05PM EDT,10,6.0," ",No
+nfl.p.31013,Kerryon,Johnson,RB,DET,SF,DET@SF,4:05PM EDT,18,5.2," ",No
+nfl.p.31014,Dante,Pettis,WR,SF,DET,DET@SF,4:05PM EDT,12,13.1," ",No
+nfl.p.31210,Richie,James Jr.,WR,SF,DET,DET@SF,4:05PM EDT,10,0.0," ",No
+nfl.p.31641,Brandon,Powell,WR,DET,SF,DET@SF,4:05PM EDT,10,0.0,O,No
+nfl.p.25295,Nick,Bellore,RB,DET,SF,DET@SF,4:05PM EDT,10,0.9," ",No
+nfl.p.25883,Alfred,Morris,RB,SF,DET,DET@SF,4:05PM EDT,15,1.8," ",No
+nfl.p.28887,Zach,Zenner,RB,DET,SF,DET@SF,4:05PM EDT,10,1.2," ",No
+nfl.p.31207,Nick,Bawden,RB,DET,SF,DET@SF,4:05PM EDT,10,0.0,IR,No
+nfl.p.27624,Jerick,McKinnon,RB,SF,DET,DET@SF,4:05PM EDT,10,10.1,IR,No
+nfl.p.29447,Aaron,Burbridge,WR,SF,DET,DET@SF,4:05PM EDT,10,0.0," ",No
+nfl.p.6762,Larry,Fitzgerald,WR,ARI,LAR,ARI@LAR,4:05PM EDT,24,11.1," ",No
+nfl.p.23976,Sam,Bradford,QB,ARI,LAR,ARI@LAR,4:05PM EDT,20,3.8," ",No
+nfl.p.23996,Jermaine,Gresham,TE,ARI,LAR,ARI@LAR,4:05PM EDT,10,4.3,O,No
+nfl.p.26299,Derrick,Coleman,RB,ARI,LAR,ARI@LAR,4:05PM EDT,10,0.0," ",No
+nfl.p.26696,Mike,Glennon,QB,ARI,LAR,ARI@LAR,4:05PM EDT,20,9.7,O,No
+nfl.p.28474,David,Johnson,RB,ARI,LAR,ARI@LAR,4:05PM EDT,38,15.2," ",No
+nfl.p.28547,J.J.,Nelson,WR,ARI,LAR,ARI@LAR,4:05PM EDT,10,4.9," ",No
+nfl.p.28964,Gabe,Holmes,TE,ARI,LAR,ARI@LAR,4:05PM EDT,10,0.0," ",No
+nfl.p.29872,D.J.,Foster,RB,ARI,LAR,ARI@LAR,4:05PM EDT,10,3.4,IR,No
+nfl.p.30211,Chad,Williams,WR,ARI,LAR,ARI@LAR,4:05PM EDT,10,0.0," ",No
+nfl.p.30292,T.J.,Logan,RB,ARI,LAR,ARI@LAR,4:05PM EDT,10,0.0," ",No
+nfl.p.30494,Ricky,Seals-Jones,TE,ARI,LAR,ARI@LAR,4:05PM EDT,11,3.4," ",No
+nfl.p.30980,Josh,Rosen,QB,ARI,LAR,ARI@LAR,4:05PM EDT,21,0.0," ",No
+nfl.p.31017,Christian,Kirk,WR,ARI,LAR,ARI@LAR,4:05PM EDT,10,0.9," ",No
+nfl.p.31104,Chase,Edmonds,RB,ARI,LAR,ARI@LAR,4:05PM EDT,10,6.8," ",No
+nfl.p.31320,Trent,Sherfield,WR,ARI,LAR,ARI@LAR,4:05PM EDT,10,0.0,O,No
+nfl.p.26664,Robert,Woods,WR,LAR,ARI,ARI@LAR,4:05PM EDT,18,5.8," ",No
+nfl.p.27548,Brandin,Cooks,WR,LAR,ARI,ARI@LAR,4:05PM EDT,17,11.8," ",No
+nfl.p.28398,Todd,Gurley II,RB,LAR,ARI,ARI@LAR,4:05PM EDT,38,22.2," ",No
+nfl.p.28477,Sean,Mannion,QB,LAR,ARI,ARI@LAR,4:05PM EDT,20,1.0," ",No
+nfl.p.28990,Malcolm,Brown,RB,LAR,ARI,ARI@LAR,4:05PM EDT,10,3.3," ",No
+nfl.p.29235,Jared,Goff,QB,LAR,ARI,ARI@LAR,4:05PM EDT,30,17.2," ",No
+nfl.p.29344,Tyler,Higbee,TE,LAR,ARI,ARI@LAR,4:05PM EDT,10,3.3," ",No
+nfl.p.29351,Pharoh,Cooper,WR,LAR,ARI,ARI@LAR,4:05PM EDT,10,0.0,IR,No
+nfl.p.29435,Brandon,Allen,QB,LAR,ARI,ARI@LAR,4:05PM EDT,20,0.0,O,No
+nfl.p.29440,Michael,Thomas,WR,LAR,ARI,ARI@LAR,4:05PM EDT,10,2.4,O,No
+nfl.p.30157,Gerald,Everett,TE,LAR,ARI,ARI@LAR,4:05PM EDT,10,3.0," ",No
+nfl.p.30182,Cooper,Kupp,WR,LAR,ARI,ARI@LAR,4:05PM EDT,17,15.3," ",No
+nfl.p.30230,Josh,Reynolds,WR,LAR,ARI,ARI@LAR,4:05PM EDT,10,2.0," ",No
+nfl.p.30370,Justin,Davis,RB,LAR,ARI,ARI@LAR,4:05PM EDT,10,0.1," ",No
+nfl.p.30373,Johnny,Mundt,TE,LAR,ARI,ARI@LAR,4:05PM EDT,10,0.0," ",No
+nfl.p.31145,John,Kelly,RB,LAR,ARI,ARI@LAR,4:05PM EDT,10,0.0,O,No
+nfl.t.22,Arizona,Cardinals,DEF,ARI,LAR,ARI@LAR,4:05PM EDT,10,5.0," ",No
+nfl.t.14,Los Angeles,Rams,DEF,LAR,ARI,ARI@LAR,4:05PM EDT,21,17.0," ",No
+nfl.p.30045,Kendal,Thompson,WR,LAR,ARI,ARI@LAR,4:05PM EDT,10,0.0,IR,No
+nfl.p.5228,Tom,Brady,QB,NE,JAX,NE@JAX,4:25PM EDT,35,22.3," ",No
+nfl.p.8930,Matthew,Slater,WR,NE,JAX,NE@JAX,4:25PM EDT,10,0.0," ",No
+nfl.p.9547,Brian,Hoyer,QB,NE,JAX,NE@JAX,4:25PM EDT,20,6.2," ",No
+nfl.p.24017,Rob,Gronkowski,TE,NE,JAX,NE@JAX,4:25PM EDT,30,19.8," ",No
+nfl.p.24760,James,Develin,RB,NE,JAX,NE@JAX,4:25PM EDT,10,4.2," ",No
+nfl.p.25178,Chris,Hogan,WR,NE,JAX,NE@JAX,4:25PM EDT,16,1.6," ",No
+nfl.p.25774,Dwayne,Allen,TE,NE,JAX,NE@JAX,4:25PM EDT,10,1.6," ",No
+nfl.p.26652,Cordarrelle,Patterson,WR,NE,JAX,NE@JAX,4:25PM EDT,10,2.4," ",No
+nfl.p.26813,Rex,Burkhead,RB,NE,JAX,NE@JAX,4:25PM EDT,18,7.4," ",No
+nfl.p.27583,Jeremy,Hill,RB,NE,JAX,NE@JAX,4:25PM EDT,10,3.6,IR,No
+nfl.p.27658,James,White,RB,NE,JAX,NE@JAX,4:25PM EDT,14,13.6," ",No
+nfl.p.28417,Phillip,Dorsett,WR,NE,JAX,NE@JAX,4:25PM EDT,11,16.1," ",No
+nfl.p.30661,Jacob,Hollister,TE,NE,JAX,NE@JAX,4:25PM EDT,10,0.5," ",No
+nfl.p.24942,Niles,Paul,TE,JAX,NE,NE@JAX,4:25PM EDT,10,0.0," ",No
+nfl.p.26838,Tommy,Bohanon,RB,JAX,NE,NE@JAX,4:25PM EDT,10,2.4," ",No
+nfl.p.27531,Blake,Bortles,QB,JAX,NE,NE@JAX,4:25PM EDT,25,14.2," ",No
+nfl.p.27566,Austin,Seferian-Jenkins,TE,JAX,NE,NE@JAX,4:25PM EDT,11,4.0," ",No
+nfl.p.27618,Donte,Moncrief,WR,JAX,NE,NE@JAX,4:25PM EDT,12,1.9," ",No
+nfl.p.28424,T.J.,Yeldon,RB,JAX,NE,NE@JAX,4:25PM EDT,18,14.4," ",No
+nfl.p.28527,Rashad,Greene Sr.,WR,JAX,NE,NE@JAX,4:25PM EDT,10,0.0," ",No
+nfl.p.28561,James,O'Shaughnessy,TE,JAX,NE,NE@JAX,4:25PM EDT,10,0.0," ",No
+nfl.p.28847,Corey,Grant,RB,JAX,NE,NE@JAX,4:25PM EDT,10,0.3," ",No
+nfl.p.29327,Cody,Kessler,QB,JAX,NE,NE@JAX,4:25PM EDT,20,1.3," ",No
+nfl.p.29978,Jaydon,Mickens,WR,JAX,NE,NE@JAX,4:25PM EDT,10,0.0," ",No
+nfl.p.30117,Leonard,Fournette,RB,JAX,NE,NE@JAX,4:25PM EDT,27,7.0,O,No
+nfl.p.30223,Dede,Westbrook,WR,JAX,NE,NE@JAX,4:25PM EDT,14,7.6," ",No
+nfl.p.30396,Keelan,Cole,WR,JAX,NE,NE@JAX,4:25PM EDT,20,6.9," ",No
+nfl.t.17,New England,Patriots,DEF,NE,JAX,NE@JAX,4:25PM EDT,15,8.0," ",No
+nfl.t.30,Jacksonville,Jaguars,DEF,JAX,NE,NE@JAX,4:25PM EDT,17,13.0," ",No
+nfl.p.31001,Sony,Michel,RB,NE,JAX,NE@JAX,4:25PM EDT,14,0.0," ",No
+nfl.p.31031,D.J.,Chark Jr.,WR,JAX,NE,NE@JAX,4:25PM EDT,10,0.0," ",No
+nfl.p.30254,Chad,Hansen,WR,NE,JAX,NE@JAX,4:25PM EDT,10,1.7," ",No
+nfl.p.31220,Ryan,Izzo,TE,NE,JAX,NE@JAX,4:25PM EDT,10,0.0,IR,No
+nfl.p.31180,Braxton,Berrios,WR,NE,JAX,NE@JAX,4:25PM EDT,10,0.0,IR,No
+nfl.p.31635,DeAndre,Goolsby,TE,JAX,NE,NE@JAX,4:25PM EDT,10,0.0,IR,No
+nfl.p.27567,Marqise,Lee,WR,JAX,NE,NE@JAX,4:25PM EDT,10,8.2,IR,No
+nfl.p.30808,Riley,McCarron,WR,NE,JAX,NE@JAX,4:25PM EDT,10,-2.0," ",No
+nfl.p.26805,Kenjon,Barner,RB,NE,JAX,NE@JAX,4:25PM EDT,10,1.2,O,No
+nfl.p.27826,Bennie,Fowler,WR,NE,JAX,NE@JAX,4:25PM EDT,10,4.5," ",No
+nfl.p.29249,Corey,Coleman,WR,NE,JAX,NE@JAX,4:25PM EDT,10,6.0,O,No
+nfl.p.8266,Marshawn,Lynch,RB,OAK,DEN,OAK@DEN,4:25PM EDT,16,11.9," ",No
+nfl.p.8813,Jordy,Nelson,WR,OAK,DEN,OAK@DEN,4:25PM EDT,12,3.8," ",No
+nfl.p.9353,Jared,Cook,TE,OAK,DEN,OAK@DEN,4:25PM EDT,16,22.5," ",No
+nfl.p.24946,Lee,Smith,TE,OAK,DEN,OAK@DEN,4:25PM EDT,10,1.5," ",No
+nfl.p.24963,Dwayne,Harris,WR,OAK,DEN,OAK@DEN,4:25PM EDT,10,0.0,O,No
+nfl.p.25741,Doug,Martin,RB,OAK,DEN,OAK@DEN,4:25PM EDT,10,2.7," ",No
+nfl.p.26416,Derek,Carrier,TE,OAK,DEN,OAK@DEN,4:25PM EDT,10,3.0," ",No
+nfl.p.26583,Andrew,DePaola,TE,OAK,DEN,OAK@DEN,4:25PM EDT,10,0.0,IR,No
+nfl.p.27564,Derek,Carr,QB,OAK,DEN,OAK@DEN,4:25PM EDT,26,9.2," ",No
+nfl.p.28141,Keith,Smith,RB,OAK,DEN,OAK@DEN,4:25PM EDT,10,0.0," ",No
+nfl.p.28214,Seth,Roberts,WR,OAK,DEN,OAK@DEN,4:25PM EDT,10,1.6," ",No
+nfl.p.28392,Amari,Cooper,WR,OAK,DEN,OAK@DEN,4:25PM EDT,21,2.3," ",No
+nfl.p.29377,DeAndre,Washington,RB,OAK,DEN,OAK@DEN,4:25PM EDT,10,4.5,O,No
+nfl.p.30000,Jalen,Richard,RB,OAK,DEN,OAK@DEN,4:25PM EDT,10,12.4," ",No
+nfl.p.30629,Keon,Hatcher,WR,OAK,DEN,OAK@DEN,4:25PM EDT,10,0.0," ",No
+nfl.p.23997,Demaryius,Thomas,WR,DEN,OAK,OAK@DEN,4:25PM EDT,20,15.3," ",No
+nfl.p.24057,Emmanuel,Sanders,WR,DEN,OAK,OAK@DEN,4:25PM EDT,21,24.5," ",No
+nfl.p.26483,Case,Keenum,QB,DEN,OAK,OAK@DEN,4:25PM EDT,27,22.2," ",No
+nfl.p.28480,Jeff,Heuerman,TE,DEN,OAK,OAK@DEN,4:25PM EDT,10,2.0," ",No
+nfl.p.28875,Matt,LaCosse,TE,DEN,OAK,OAK@DEN,4:25PM EDT,10,0.0," ",No
+nfl.p.29370,Devontae,Booker,RB,DEN,OAK,OAK@DEN,4:25PM EDT,10,2.5," ",No
+nfl.p.29410,Andy,Janovich,RB,DEN,OAK,OAK@DEN,4:25PM EDT,10,0.0," ",No
+nfl.p.30258,Jake,Butt,TE,DEN,OAK,OAK@DEN,4:25PM EDT,10,3.9," ",No
+nfl.p.30366,Chad,Kelly,QB,DEN,OAK,OAK@DEN,4:25PM EDT,20,0.0," ",No
+nfl.p.30511,Tim,Patrick,WR,DEN,OAK,OAK@DEN,4:25PM EDT,10,0.0," ",No
+nfl.t.13,Oakland,Raiders,DEF,OAK,DEN,OAK@DEN,4:25PM EDT,13,1.0," ",No
+nfl.t.7,Denver,Broncos,DEF,DEN,OAK,OAK@DEN,4:25PM EDT,13,12.0," ",No
+nfl.p.31010,Courtland,Sutton,WR,DEN,OAK,OAK@DEN,4:25PM EDT,10,5.5," ",No
+nfl.p.31041,Royce,Freeman,RB,DEN,OAK,OAK@DEN,4:25PM EDT,19,7.1," ",No
+nfl.p.31083,DaeSean,Hamilton,WR,DEN,OAK,OAK@DEN,4:25PM EDT,10,0.0," ",No
+nfl.p.31379,Phillip,Lindsay,RB,DEN,OAK,OAK@DEN,4:25PM EDT,14,17.2," ",No
+nfl.p.31514,Chris,Warren III,RB,OAK,DEN,OAK@DEN,4:25PM EDT,10,0.0,IR,No
+nfl.p.27692,AJ,McCarron,QB,OAK,DEN,OAK@DEN,4:25PM EDT,20,1.3," ",No
+nfl.p.31126,Troy,Fumagalli,TE,DEN,OAK,OAK@DEN,4:25PM EDT,10,0.0,IR,No
+nfl.p.29396,Kevin,Hogan,QB,DEN,OAK,OAK@DEN,4:25PM EDT,20,9.7,O,No
+nfl.p.30285,Isaiah,McKenzie,WR,DEN,OAK,OAK@DEN,4:25PM EDT,10,0.3," ",No
+nfl.p.24053,Brandon,LaFell,WR,OAK,DEN,OAK@DEN,4:25PM EDT,10,6.2," ",No
+nfl.p.27646,Martavis,Bryant,WR,OAK,DEN,OAK@DEN,4:25PM EDT,10,7.6," ",No
+nfl.p.30195,Carlos,Henderson,WR,DEN,OAK,OAK@DEN,4:25PM EDT,10,0.0," ",No
+nfl.t.19,New York,Giants,DEF,NYG,DAL,NYG@DAL,8:20PM EDT,10,4.0," ",No
+nfl.t.6,Dallas,Cowboys,DEF,DAL,NYG,NYG@DAL,8:20PM EDT,15,6.0," ",No
+nfl.p.6760,Eli,Manning,QB,NYG,DAL,NYG@DAL,8:20PM EDT,26,8.2," ",No
+nfl.p.8790,Jonathan,Stewart,RB,NYG,DAL,NYG@DAL,8:20PM EDT,10,0.8," ",No
+nfl.p.25838,Rhett,Ellison,TE,NYG,DAL,NYG@DAL,8:20PM EDT,10,2.1," ",No
+nfl.p.26547,Alex,Tanney,QB,NYG,DAL,NYG@DAL,8:20PM EDT,20,0.0," ",No
+nfl.p.27055,Russell,Shepard,WR,NYG,DAL,NYG@DAL,8:20PM EDT,10,2.4," ",No
+nfl.p.27540,Odell,Beckham Jr.,WR,NYG,DAL,NYG@DAL,8:20PM EDT,37,16.5," ",No
+nfl.p.27584,Cody,Latimer,WR,NYG,DAL,NYG@DAL,8:20PM EDT,10,0.0," ",No
+nfl.p.28215,Scott,Simonson,TE,NYG,DAL,NYG@DAL,8:20PM EDT,10,0.0," ",No
+nfl.p.29274,Sterling,Shepard,WR,NYG,DAL,NYG@DAL,8:20PM EDT,18,7.3," ",No
+nfl.p.30136,Evan,Engram,TE,NYG,DAL,NYG@DAL,8:20PM EDT,18,2.8," ",No
+nfl.p.30253,Wayne,Gallman Jr.,RB,NYG,DAL,NYG@DAL,8:20PM EDT,10,1.8," ",No
+nfl.p.30739,Shane,Smith,RB,NYG,DAL,NYG@DAL,8:20PM EDT,10,0.0," ",No
+nfl.p.30972,Saquon,Barkley,RB,NYG,DAL,NYG@DAL,8:20PM EDT,30,19.8," ",No
+nfl.p.31078,Kyle,Lauletta,QB,NYG,DAL,NYG@DAL,8:20PM EDT,20,0.0," ",No
+nfl.p.26060,Cole,Beasley,WR,DAL,NYG,NYG@DAL,8:20PM EDT,14,10.8," ",No
+nfl.p.26535,Jamize,Olawale,RB,DAL,NYG,NYG@DAL,8:20PM EDT,10,0.0," ",No
+nfl.p.26631,Tavon,Austin,WR,DAL,NYG,NYG@DAL,8:20PM EDT,10,0.1," ",No
+nfl.p.26697,Terrance,Williams,WR,DAL,NYG,NYG@DAL,8:20PM EDT,13,1.1," ",No
+nfl.p.27874,Allen,Hurns,WR,DAL,NYG,NYG@DAL,8:20PM EDT,12,2.5," ",No
+nfl.p.28634,Geoff,Swaim,TE,DAL,NYG,NYG@DAL,8:20PM EDT,13,3.3," ",No
+nfl.p.28718,Rod,Smith,RB,DAL,NYG,NYG@DAL,8:20PM EDT,10,0.5," ",No
+nfl.p.29238,Ezekiel,Elliott,RB,DAL,NYG,NYG@DAL,8:20PM EDT,37,16.1," ",No
+nfl.p.29369,Dak,Prescott,QB,DAL,NYG,NYG@DAL,8:20PM EDT,28,8.7," ",No
+nfl.p.29451,Rico,Gathers,TE,DAL,NYG,NYG@DAL,8:20PM EDT,10,0.0," ",No
+nfl.p.30784,Blake,Jarwin,TE,DAL,NYG,NYG@DAL,8:20PM EDT,10,0.0," ",No
+nfl.p.30788,Cooper,Rush,QB,DAL,NYG,NYG@DAL,8:20PM EDT,20,0.7," ",No
+nfl.p.31051,Michael,Gallup,WR,DAL,NYG,NYG@DAL,8:20PM EDT,10,1.4," ",No
+nfl.p.31107,Dalton,Schultz,TE,DAL,NYG,NYG@DAL,8:20PM EDT,10,0.0," ",No
+nfl.p.31141,Mike,White,QB,DAL,NYG,NYG@DAL,8:20PM EDT,20,0.0," ",No
+nfl.p.31178,Cedrick,Wilson,WR,DAL,NYG,NYG@DAL,8:20PM EDT,10,0.0,IR,No
+nfl.p.28572,Kaelin,Clay,WR,NYG,DAL,NYG@DAL,8:20PM EDT,10,0.0," ",No
+nfl.p.26456,Deonte,Thompson,WR,DAL,NYG,NYG@DAL,8:20PM EDT,10,4.2," ",No
+nfl.p.30352,Noah,Brown,WR,DAL,NYG,NYG@DAL,8:20PM EDT,10,0.8,IR,No

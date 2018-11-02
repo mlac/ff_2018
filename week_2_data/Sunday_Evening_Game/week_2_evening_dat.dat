@@ -1,0 +1,46 @@
+param: P:        v       C     := 
+"New York Giants"    6.06239644061    10
+"Dallas Cowboys"    10.5696903042    15
+"Eli Manning"    13.8518641564    26
+"Odell Beckham Jr."    12.7627503039    37
+"Evan Engram"    6.24466155845    18
+"Saquon Barkley"    14.3790520306    30
+"Ezekiel Elliott"    16.9468803045    37
+"Dak Prescott"    14.9076737645    28
+"Russell Wilson"    17.8366920023    32
+"Tyler Lockett"    8.12449778859    17
+"Nick Vannett"    2.99006494031    10
+"Trey Burton"    6.15070219666    16
+"Jordan Howard"    12.4267243386    26
+"Mitchell Trubisky"    13.378510895    20
+"Will Dissly"    3.6886344937    13
+;
+
+param Cmax := 200.0 ;
+
+param:   S:  Smin    Smax    := 
+         QB    1       1     
+         WR    3       4     
+         RB    2       3     
+         TE    1       2     
+         DEF   1       1     
+         WRT   7       7;    
+
+
+param e:     QB  WR  RB  TE     DEF  WRT := 
+"New York Giants"    0    0    0    0    1    0    
+"Dallas Cowboys"    0    0    0    0    1    0    
+"Eli Manning"    1    0    0    0    0    0    
+"Odell Beckham Jr."    0    1    0    0    0    1    
+"Evan Engram"    0    0    0    1    0    1    
+"Saquon Barkley"    0    0    1    0    0    1    
+"Ezekiel Elliott"    0    0    1    0    0    1    
+"Dak Prescott"    1    0    0    0    0    0    
+"Russell Wilson"    1    0    0    0    0    0    
+"Tyler Lockett"    0    1    0    0    0    1    
+"Nick Vannett"    0    0    0    1    0    1    
+"Trey Burton"    0    0    0    1    0    1    
+"Jordan Howard"    0    0    1    0    0    1    
+"Mitchell Trubisky"    1    0    0    0    0    0    
+"Will Dissly"    0    0    0    1    0    1    
+;

@@ -1,0 +1,44 @@
+Id,First Name,Last Name,Position,Team,Opponent,Game,Time,Salary,FPPG,Injury Status,Starting
+nfl.p.9265,Matthew,Stafford,QB,DET,SF,DET@SF,4:05PM EDT,35,12.0, ,No
+nfl.p.24035,Golden,Tate,WR,DET,SF,DET@SF,4:05PM EDT,25,17.4, ,No
+nfl.p.25876,Marvin,Jones Jr.,WR,DET,SF,DET@SF,4:05PM EDT,21,7.4, ,No
+nfl.p.30209,Kenny,Golladay,WR,DET,SF,DET@SF,4:05PM EDT,12,14.9, ,No
+nfl.p.27590,Jimmy,Garoppolo,QB,SF,DET,DET@SF,4:05PM EDT,29,12.0, ,No
+nfl.p.30259,George,Kittle,TE,SF,DET,DET@SF,4:05PM EDT,17,11.5, ,No
+nfl.t.8,Detroit,Lions,DEF,DET,SF,DET@SF,4:05PM EDT,18,8.0, ,No
+nfl.t.25,San Francisco,49ers,DEF,SF,DET,DET@SF,4:05PM EDT,10,6.0, ,No
+nfl.p.25883,Alfred,Morris,RB,SF,DET,DET@SF,4:05PM EDT,15,1.8, ,No
+nfl.p.6762,Larry,Fitzgerald,WR,ARI,LAR,ARI@LAR,4:05PM EDT,24,11.1, ,No
+nfl.p.23976,Sam,Bradford,QB,ARI,LAR,ARI@LAR,4:05PM EDT,20,3.8, ,No
+nfl.p.28474,David,Johnson,RB,ARI,LAR,ARI@LAR,4:05PM EDT,38,15.2, ,No
+nfl.p.30494,Ricky,Seals-Jones,TE,ARI,LAR,ARI@LAR,4:05PM EDT,11,3.4, ,No
+nfl.p.27548,Brandin,Cooks,WR,LAR,ARI,ARI@LAR,4:05PM EDT,17,11.8, ,No
+nfl.p.28398,Todd,Gurley II,RB,LAR,ARI,ARI@LAR,4:05PM EDT,38,22.2, ,No
+nfl.p.29235,Jared,Goff,QB,LAR,ARI,ARI@LAR,4:05PM EDT,30,17.2, ,No
+nfl.t.22,Arizona,Cardinals,DEF,ARI,LAR,ARI@LAR,4:05PM EDT,10,5.0, ,No
+nfl.t.14,Los Angeles,Rams,DEF,LAR,ARI,ARI@LAR,4:05PM EDT,21,17.0, ,No
+nfl.p.5228,Tom,Brady,QB,NE,JAX,NE@JAX,4:25PM EDT,35,22.3, ,No
+nfl.p.24017,Rob,Gronkowski,TE,NE,JAX,NE@JAX,4:25PM EDT,30,19.8, ,No
+nfl.p.26813,Rex,Burkhead,RB,NE,JAX,NE@JAX,4:25PM EDT,18,7.4, ,No
+nfl.p.27531,Blake,Bortles,QB,JAX,NE,NE@JAX,4:25PM EDT,25,14.2, ,No
+nfl.p.27566,Austin,Seferian-Jenkins,TE,JAX,NE,NE@JAX,4:25PM EDT,11,4.0, ,No
+nfl.p.28424,T.J.,Yeldon,RB,JAX,NE,NE@JAX,4:25PM EDT,18,14.4, ,No
+nfl.t.17,New England,Patriots,DEF,NE,JAX,NE@JAX,4:25PM EDT,15,8.0, ,No
+nfl.t.30,Jacksonville,Jaguars,DEF,JAX,NE,NE@JAX,4:25PM EDT,17,13.0, ,No
+nfl.p.8266,Marshawn,Lynch,RB,OAK,DEN,OAK@DEN,4:25PM EDT,16,11.9, ,No
+nfl.p.9353,Jared,Cook,TE,OAK,DEN,OAK@DEN,4:25PM EDT,16,22.5, ,No
+nfl.p.27564,Derek,Carr,QB,OAK,DEN,OAK@DEN,4:25PM EDT,26,9.2, ,No
+nfl.p.23997,Demaryius,Thomas,WR,DEN,OAK,OAK@DEN,4:25PM EDT,20,15.3, ,No
+nfl.p.24057,Emmanuel,Sanders,WR,DEN,OAK,OAK@DEN,4:25PM EDT,21,24.5, ,No
+nfl.p.26483,Case,Keenum,QB,DEN,OAK,OAK@DEN,4:25PM EDT,27,22.2, ,No
+nfl.t.13,Oakland,Raiders,DEF,OAK,DEN,OAK@DEN,4:25PM EDT,13,1.0, ,No
+nfl.t.7,Denver,Broncos,DEF,DEN,OAK,OAK@DEN,4:25PM EDT,13,12.0, ,No
+nfl.p.31041,Royce,Freeman,RB,DEN,OAK,OAK@DEN,4:25PM EDT,19,7.1, ,No
+nfl.t.19,New York,Giants,DEF,NYG,DAL,NYG@DAL,8:20PM EDT,10,4.0, ,No
+nfl.t.6,Dallas,Cowboys,DEF,DAL,NYG,NYG@DAL,8:20PM EDT,15,6.0, ,No
+nfl.p.6760,Eli,Manning,QB,NYG,DAL,NYG@DAL,8:20PM EDT,26,8.2, ,No
+nfl.p.27540,Odell,Beckham Jr.,WR,NYG,DAL,NYG@DAL,8:20PM EDT,37,16.5, ,No
+nfl.p.30136,Evan,Engram,TE,NYG,DAL,NYG@DAL,8:20PM EDT,18,2.8, ,No
+nfl.p.30972,Saquon,Barkley,RB,NYG,DAL,NYG@DAL,8:20PM EDT,30,19.8, ,No
+nfl.p.29238,Ezekiel,Elliott,RB,DAL,NYG,NYG@DAL,8:20PM EDT,37,16.1, ,No
+nfl.p.29369,Dak,Prescott,QB,DAL,NYG,NYG@DAL,8:20PM EDT,28,8.7, ,No

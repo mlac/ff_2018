@@ -1,61 +1,14 @@
 {
     "Problem": [
         {
-            "Lower bound": 12.98, 
+            "Lower bound": -Infinity, 
             "Name": "unknown", 
-            "Number of constraints": 12, 
-            "Number of nonzeros": 31, 
+            "Number of constraints": 11, 
+            "Number of nonzeros": 49, 
             "Number of objectives": 1, 
-            "Number of variables": 10, 
-            "Sense": "minimize", 
-            "Upper bound": 12.98
-        }
-    ], 
-    "Solution": [
-        {
-            "number of solutions": 1, 
-            "number of solutions displayed": 1
-        }, 
-        {
-            "Constraint": "No values", 
-            "Gap": 0.0, 
-            "Message": null, 
-            "Objective": {
-                "value": {
-                    "Value": 12.98
-                }
-            }, 
-            "Problem": {}, 
-            "Status": "optimal", 
-            "Variable": {
-                "x[AB]": {
-                    "Value": 1.0
-                }, 
-                "x[Big Ben]": {
-                    "Value": 1.0
-                }, 
-                "x[Brady]": {
-                    "Value": 1.0
-                }, 
-                "x[Broncos]": {
-                    "Value": 1.0
-                }, 
-                "x[Greene]": {
-                    "Value": 1.0
-                }, 
-                "x[Gronk]": {
-                    "Value": 1.0
-                }, 
-                "x[Hunt]": {
-                    "Value": 1.0
-                }, 
-                "x[Ju Ju]": {
-                    "Value": 1.0
-                }, 
-                "x[Steelers]": {
-                    "Value": 1.0
-                }
-            }
+            "Number of variables": 16, 
+            "Sense": "maximize", 
+            "Upper bound": Infinity
         }
     ], 
     "Solver": [
@@ -68,8 +21,8 @@
                 }
             }, 
             "Status": "ok", 
-            "Termination condition": "optimal", 
-            "Time": 0.007311820983886719
+            "Termination condition": "infeasible", 
+            "Time": 0.0071868896484375
         }
     ]
 }
